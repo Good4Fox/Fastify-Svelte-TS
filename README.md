@@ -4,7 +4,7 @@
 ![Fastify](public/vite.svg)
 
 
-##Structures
+## Structures
 ```
 your_project_name/
 │
